@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🙋‍♂️ About Me<br><br>🔭 I'm currently working on **workflow automation projects and practical software applications**<br><br>👯 I'm looking to collaborate on **AI automation, backend development, and open-source projects**<br><br>🤝 I'm looking for help with **building scalable applications and improving my software engineering skills**<br><br>🌱 I'm currently learning **AI automation and Engineering**<br><br>💬 Ask me about **Python, n8n, webhooks, REST APIs, and workflow automation**<br><br>⚡ Fun fact: **I enjoy turning repetitive tasks into automated workflows.**
 
 
